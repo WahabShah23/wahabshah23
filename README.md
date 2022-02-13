@@ -13,7 +13,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/wahabshah23?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/wahabshah23?style=social)
 
-<!-- Check my <a href="https://stackoverflow.com/users/5996276/wahab-shah">Stackoverflow </a> -->
+Check my <a href="https://stackoverflow.com/users/5996276/wahab-shah">Stackoverflow </a>
 
 <!-- ---
 <img src="https://user-images.githubusercontent.com/14151483/120030864-6cf67400-c011-11eb-87a3-9f2855241b3c.png" width="50px">
