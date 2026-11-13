@@ -8,7 +8,7 @@
 
 
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, A**** W**** S*** Here!  
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Abdul Wahab Shah Here!  
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wahabshah23?style=social)
